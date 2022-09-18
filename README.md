@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammed Nasser</h1>
 <h3 align="center">An Experienced Software Engineer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://amazon-projects.com/giphy%20(1).gif"/>
+<a href="https://app.daily.dev/muhammedn"><img src="https://api.daily.dev/devcards/5311f076d6374375bb74bd2b3a59d175.png?r=9cg" width="400" alt="Muhammed nasser's Dev Card"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedn&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedn" /> </p>
 
 
