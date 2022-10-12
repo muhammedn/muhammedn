@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammed Nasser</h1>
 <h3 align="center">An Experienced Software Engineer</h3>
 
-<img aligh="right" src="https://amazon-projects.com/daft-punk-bugs.gif" alt="muhammedn" />
+<img style="display: block;margin-left: auto;margin-right: auto;" src="https://amazon-projects.com/daft-punk-bugs.gif" alt="muhammedn" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedn&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedn" /> </p>
